@@ -1,0 +1,7 @@
+azure-functions
+azure-storage-blob
+openai
+pandas
+PyMuPDF
+azure-search-documents
+python-dotenv
